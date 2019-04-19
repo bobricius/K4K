@@ -1,0 +1,12 @@
+Usually
+
+2x BC847A
+2x 10uf 1206
+2x 1M   1206
+3x 1K   1206
+2x LED 3528 RED/GREEN/BLUE/YELLOW - deppend on project
+1x LED 4014 white
+1x side SWITCH
+1x CR2032 Battery holder
+
+More detailed bom on github
